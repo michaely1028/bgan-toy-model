@@ -18,3 +18,5 @@ Yellow line: Trajectory for one optimization process, taking SGD. The final poin
 Purple line: Trajectory for one optimization process, taking GD. The final point is shown in magenta.
 
 Problem remaining: 1- complicated $f$. 2- SGHMC. 
+
+3- how to find the joint distribution . 
