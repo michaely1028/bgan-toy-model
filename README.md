@@ -2,7 +2,7 @@
 MATLAB.
 
 Too lazy (or busy) to add comments about the samping.
-
+ 
 ## Question 1: Dynamic properties for GAN on a toy model ##
 
 Just talk about the plot.
