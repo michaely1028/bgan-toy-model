@@ -20,3 +20,5 @@ Purple line: Trajectory for one optimization process, taking GD. The final point
 Problem remaining: 1- complicated $f$. 2- SGHMC. 
 
 3- how to find the joint distribution . 
+
+3-- Seems that we cannot find this joint distrbution. Maybe we have to find other methods for it, by symplectic system or integrate something. 
